@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SE2Einzelphase-PalindromeSolver</string>
+
+    <!-- info text-->
+    <string name="info_text_true">Der String ist ein Palindrom!</string>
+    <string name="info_text_false">Der String ist kein Palindrom!</string>
+    <string name="info_text_min_length">Der String muss min. 5 Zeichen lang sein!</string>
+    <string name="info_text_empty">Keinen String eingegeben. Bitte geben Sie min. 5 Zeichen ein.\nLeerzeichen am Anfang und am Ende werden entfernt.</string>
+
+
+    <string name="hint_text_input">Bitte String eigeben...</string>
+    <string name="palindrome_check">Palindrom Check</string>
+
+
+    <string name="check_palindrome_button">String überprüfen</string>
+</resources>
